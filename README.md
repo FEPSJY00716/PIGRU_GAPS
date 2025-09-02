@@ -249,11 +249,11 @@ For issues related to reproduction:
 If you use this code or reproduce these results, please cite:
 ```bibtex
 @article{pigru_gaps2024,
-  title={[Physics-Informed Gated Recurrent Unit Network for Temperature Forecast in Greenhouse Aquaponic Systems<img width="468" height="96" alt="image" src="https://github.com/user-attachments/assets/4ac4ff62-6e8a-44ae-ba34-77f2d58fe4eb" />
+  title={[Physics-Informed Gated Recurrent Unit Network for Temperature Forecast in Greenhouse Aquaponic Systems<img 
 ]},
-  author={[Jinqi Yanga, Mingwei Jia, Quanwu Ge, Yang Wang, Tao Chen <img width="468" height="54" alt="image" src="https://github.com/user-attachments/assets/8e04b6fb-9d7b-4610-bb54-37d694400c6f" />
+  author={[Jinqi Yanga, Mingwei Jia, Quanwu Ge, Yang Wang, Tao Chen
 ]},
-  journal={[Information Processing in Agriculture<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/7ff91de8-da9b-4666-83c3-1d4e8347e65a" />
+  journal={[Information Processing in Agriculture
 ]},
   year={2025}
 }
